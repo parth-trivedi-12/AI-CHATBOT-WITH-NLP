@@ -1,9 +1,3 @@
-# AI-CHATBOT-WITH-NLP
-
-
----
-
-
 # 🤖 AI Chatbot with NLP
 
 A simple AI-powered chatbot built using Python and NLTK. This chatbot answers basic math-related questions and includes a built-in calculator for performing arithmetic operations.
