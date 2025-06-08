@@ -109,5 +109,5 @@ pip freeze > requirements.txt
 * Add speech-to-text and text-to-speech features
 * Migrate to advanced NLP tools (spaCy, transformers)
 
-##Output:
+## Output:
 ![Image](https://github.com/user-attachments/assets/8c107164-6223-418d-82fa-1de2ade99ab4)
