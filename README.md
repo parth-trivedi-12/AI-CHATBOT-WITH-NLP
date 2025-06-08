@@ -1,3 +1,16 @@
+
+COMPANY:CODTECH IT SOLUTIONS
+
+Name :Trivedi Parth Yogeshbhai
+
+Intern ID :CT04DN939
+
+Domain:Python Programming
+
+Duration:4 Weeks
+
+Mentor:Neela Santhosh Kumar
+
 # 🤖 AI Chatbot with NLP
 
 A simple AI-powered chatbot built using Python and NLTK. This chatbot answers basic math-related questions and includes a built-in calculator for performing arithmetic operations.
