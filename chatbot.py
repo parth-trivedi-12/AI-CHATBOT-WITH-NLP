@@ -22,7 +22,6 @@ pairs = [
     [r"what is division ?",
      ["Division is splitting a number into equal parts or groups."]],
 
-    # ... (Include all 100+ Q&A pairs from before here)
 
 ]
 
@@ -102,3 +101,4 @@ def chatbot():
 
 if __name__ == "__main__":
     chatbot()
+
